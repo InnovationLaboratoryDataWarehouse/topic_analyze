@@ -14,6 +14,20 @@
 
 比较毛泽东和刘少奇在不同主题维度上的侧重点，发现毛泽东更重视国际局势的变化、阶级斗争和思想改造。
 
-! [text ] ( C:\Users\MX\Desktop\下载.png)
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/%E4%B8%BB%E9%A2%98%E5%8D%A0%E6%AF%94%E6%AF%94%E8%BE%83.png)
+
+毛泽东不同主题维度的历年累计情况
+
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%90%E5%B9%B4%E7%B4%AF%E8%AE%A1%E5%8F%98%E5%8C%96.png)
+
+刘少奇不同主题维度的历年累计情况
+
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/%E5%88%98%E5%B0%91%E5%A5%87%E9%80%90%E5%B9%B4%E7%B4%AF%E8%AE%A1%E5%8F%98%E5%8C%96.png)
+
+
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/%E5%9B%BD%E5%86%85%E5%BB%BA%E8%AE%BE.png)
+
+
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/%E6%80%9D%E6%83%B3%E6%94%B9%E9%80%A0.png)
 
 

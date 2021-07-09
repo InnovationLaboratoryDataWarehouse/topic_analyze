@@ -20,6 +20,22 @@
 
 比较毛泽东和刘少奇两人的文章在用词上的差异。并生成相关的文字散布图。
 
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/scattertext_novel_M_L.png)
+
+毛、刘二人词频分布情况。可以看到毛显著的更关心例如‘朝鲜’、‘古巴’等国际局势斗争，以及‘整风’、‘抓’、‘斗’等阶级斗争运动。而刘少奇显著地更关心例如‘国民经济’、‘行业’等经济建设内容。
+
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/scattertext_topic_model.png)
+
+当我们构造出四个主题模型之后，这种差异就体现的更为明显。我们设立四个主题模型，选择的关键词分别是：
+    '阶级斗争': ['右派','知识分子','公社','人民 群众', '马克思主义','资产阶级','抓','整','专政','修正主义','解放','解放斗争'],
+    '帝国主义': ['美国','帝国主义','法国','世界','朝鲜','古巴'],
+    '思想改造': ['整风','阶级斗争','路线','思想','腐蚀','资产阶级'],
+    '经济建设': [ '工商业','企业','经济','发展','先进','建设','私营','公营']。
+    
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/scattertext_word_embedding.png)
+![image](https://github.com/qiangjiaodeyugang/topic_analyze/blob/main/image/scattertext_doc_based.png)
+
+根据df-idf将词语转换为向量，并通过SVD降维为两个维度后，可以看出两人的关注点是差异明显的。上图为分别以单词和文本为基本单位绘制的二维空间坐标
 
 # topic_analyse
 
